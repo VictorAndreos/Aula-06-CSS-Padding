@@ -1,0 +1,34 @@
+/*
+    
+    
+    forma colocando cada lateral separada
+
+    Padding-top: 30px;
+
+    Padding-bottom: 30px;
+
+    Padding-left: 30px;
+
+    Padding-right: 30px;
+
+
+    forma colocando o mesmo valor no topo e embaixo (30px) e nas laterais (15px)
+
+    Padding: 30px 15px;
+
+
+    forma colocando o mesmo valor em todos os lados ao mesmo tempo
+
+    Padding: 30px;
+
+*/
+html{
+    background-color: black;
+    color:#ff0095;
+}
+
+p{
+    padding: 30px 17px 20px 12px;
+    background-color: aqua;
+    color: blueviolet;
+}
